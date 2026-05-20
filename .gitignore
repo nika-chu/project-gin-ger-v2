@@ -1,0 +1,29 @@
+# Model weights and exports
+*.pth
+*.onnx
+*.trt
+*.engine
+
+# Data and results
+dataset/
+results/
+*.csv
+
+# Kaggle runtime
+config.json
+pip-constraints.txt
+.cell0_pytorch_ready
+
+# Jupyter
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+
+# OS
+.DS_Store
+Thumbs.db
