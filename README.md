@@ -6,7 +6,7 @@ Deep learning pipeline for thesis: DeiT-Small-Distilled (image classification) a
 ## Repository layout
 
 ```
-rhizome-thesis/
+project-gin-ger-v2/
   notebooks/
     01_data_preparation.ipynb   # Roboflow download, split, config
     02_Deit_Train.ipynb         # DeiT training and evaluation
